@@ -1,0 +1,21 @@
+{
+  "name": "node-decyrpt",
+  "version": "1.0.0",
+  "description": "Node CLI tool to decrypt and encrypt strings of characters and input the information into a file!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygoncalves/node-decrypt.git"
+  },
+  "author": "Jason M. Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygoncalves/node-decrypt/issues"
+  },
+  "homepage": "https://github.com/jaygoncalves/node-decrypt#readme"
+}
