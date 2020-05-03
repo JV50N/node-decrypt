@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/jaygoncalves/node-decrypt/issues"
   },
-  "homepage": "https://github.com/jaygoncalves/node-decrypt#readme"
+  "homepage": "https://github.com/jaygoncalves/node-decrypt#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.1.0"
+  }
 }
